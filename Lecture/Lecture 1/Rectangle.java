@@ -11,8 +11,12 @@ public class Rectangle {
         numberOfRectangles++;
     }
 
+    // The main method is where the execution starts from
     public static void main(String[] args) {
-        System.out.println("hello world!");
+        Rectangle rect = new Rectangle(3.5, 2.6);
+        double ar;
+        ar = rect.area();
+        System.out.println(ar);
     }
 
     // Instance method
