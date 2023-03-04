@@ -1,0 +1,6 @@
+Only can have abstract methods.
+Only can have static and final variables.
+Cannot provide an implementation of abstract classes.
+Uses the keyword "implements".
+Can extend another Java interface only.
+Members must be public.

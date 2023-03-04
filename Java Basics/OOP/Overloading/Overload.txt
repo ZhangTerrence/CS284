@@ -1,0 +1,7 @@
+Methods NEEDS to have:
+    - the same name
+    - different parameters
+
+Methods are in the same class.
+Static methods can be overloaded.
+Used during compiler-time polymorphism.

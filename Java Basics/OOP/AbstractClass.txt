@@ -1,0 +1,6 @@
+Can have abstract and non-abstract (concrete) methods.
+Can have non-final, final, non-static, and static variables.
+Can provide an implementation of an interface.
+Uses the keyboard "extends".
+Can extend another Java class, implement multiple interfaces.
+Members can be private, protected, public, default.

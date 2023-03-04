@@ -1,0 +1,8 @@
+Methods NEEDS to have:
+    - the same name
+    - the same parameters
+    - the same return type
+
+Final methods and static methods cannot be overridden.
+The method will be overridden in the subclass. So the superclass' method is unchanged.
+Used during runtime polymorphism.

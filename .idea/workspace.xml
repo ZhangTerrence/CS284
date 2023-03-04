@@ -4,12 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32cbf7f2-24aa-475a-8fb2-858804f65d08" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/Lecture/Lecture 2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture/Lecture 2/TestPerson.java" afterDir="false" />
+    <list default="true" id="32cbf7f2-24aa-475a-8fb2-858804f65d08" name="Changes" comment="Lecture 2">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/terre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Lists/KWArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Lists/SingleLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Queues/ListQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Stack/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Stack/StackInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 1/BinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 1/TestBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/DictionaryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/TestDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/ionDictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/ClassExample/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/ClassExample/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/Exceptions/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/Generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/Generics/PairDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/JUnit/AssertTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/AbstractClass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/ImplementShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Interface.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/InterfaceShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overloading/Overload.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/Override.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/SubOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/SuperOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/TestOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Overriding/TestTypecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Polymorphism/TestPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/ShapeBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/OOP/TestShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basics/Types/TestTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture/Lecture 1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/Lecture 1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture/Lecture 2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS284 - Data Structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS284 - Data Structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/Lecture 1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/Lecture 2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/Lecture 2/TestPerson.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,61 +81,105 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/terre/IdeaProjects/CS284 - Data Structures/Lecture/Lecture 5&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.spelling&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures\Lecture\Lecture 5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures\Lecture\Lecture 1" />
+      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures" />
+      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures\src" />
+      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures\Homework" />
+      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures\Homework\Homework 2" />
+      <recent name="C:\Users\terre\IdeaProjects\CS284 - Data Structures\Lecture\Lecture 8\Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.TestPolymorphism">
+    <configuration name="TestOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Overriding.TestOverride" />
       <module name="CS284 - Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Person" />
+    <configuration name="TestPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.TestPolymorphism" />
       <module name="CS284 - Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rectangle" />
+    <configuration name="TestShapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.TestShapes" />
       <module name="CS284 - Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="TestTypecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Overriding.TestTypecasting" />
       <module name="CS284 - Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestPerson" />
+    <configuration name="TestTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Types.TestTypes" />
       <module name="CS284 - Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Types.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.TestPerson" />
-        <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestPolymorphism" />
+        <item itemvalue="Application.TestTypecasting" />
+        <item itemvalue="Application.TestOverride" />
+        <item itemvalue="Application.TestTypes" />
+        <item itemvalue="Application.TestShapes" />
       </list>
     </recent_temporary>
   </component>
@@ -136,12 +220,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674238627684</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lecture 2">
+      <created>1674496326524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674496326524</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Lecture 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 2" />
   </component>
 </project>
